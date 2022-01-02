@@ -15,7 +15,7 @@ var Frost = function(){
 	
 	/* Countdown Style 1 
 	   - Put your launching date here and uncomment this line*/
-	var WebsiteLaunchDate = '2 January 2022 22:27';
+	var WebsiteLaunchDate = '3 January 2022 14:00';
 	var handleCountDown = function(WebsiteLaunchDate){
 		/* Time Countr Down Js */
 		if($(".countdown").length)
